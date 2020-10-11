@@ -2,4 +2,6 @@
 ## Group Members
 -repo owner GeneralNotSteve (Joshua Yoon)
 
-- Group User 1 JordanRose-Ari
+-repo tourist Jacob Golden
+
+-repo tourist JordanRose-Ari
