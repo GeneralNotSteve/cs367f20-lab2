@@ -5,3 +5,5 @@
 -repo tourist Jacob Golden
 
 -repo tourist JordanRose-Ari
+
+https://asciinema.org/a/ZZ1ChryMi7qmzcXwo17qx3tQo
